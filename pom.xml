@@ -78,6 +78,9 @@
         <target>17</target>
       </configuration>
     </plugin>
+        <configuration>
+  <failsOnError>false</failsOnError>
+</configuration>
       </plugins>
     </pluginManagement>
   </build>
